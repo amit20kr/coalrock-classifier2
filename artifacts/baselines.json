@@ -1,0 +1,17 @@
+{
+  "leakage_probe": {
+    "frac_above_0.999": 0.076
+  },
+  "1-NN": {
+    "accuracy": 0.7726692209450831
+  },
+  "RBF-SVM": {
+    "accuracy": 0.7726692209450831
+  },
+  "Random Forest": {
+    "accuracy": 0.8588761174968071
+  },
+  "PLS-DA": {
+    "accuracy": 0.6724137931034483
+  }
+}

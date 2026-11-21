@@ -1,0 +1,277 @@
+{
+  "summary": {
+    "files": 24,
+    "consumed_min": -5.325009822845459,
+    "consumed_max": 102.8558120727539,
+    "reflectance_min": -5.325009822845459,
+    "reflectance_max": 102.8558120727539,
+    "all_reflectance_min": -5.325009822845459,
+    "all_reflectance_max": 102.8558120727539
+  },
+  "files": [
+    {
+      "class": "0.3 coking coal",
+      "sha256": "b3e26b1f8146e31f2a66ce5f788ccef9a323d8f9b55526c3e4859fb1f514b2cf",
+      "scans": 418,
+      "consumed_min": 0.0,
+      "consumed_max": 80.0,
+      "reflectance_min": 2.448729991912842,
+      "reflectance_max": 46.14651870727539,
+      "all_reflectance_min": 2.448729991912842,
+      "all_reflectance_max": 46.14651870727539
+    },
+    {
+      "class": "Anthracite coal grade 1",
+      "sha256": "c7891c768bbd6968c0715d398c5484515d7a395137b58af43943a03c2cc50b0e",
+      "scans": 418,
+      "consumed_min": -0.7986800074577332,
+      "consumed_max": 80.0,
+      "reflectance_min": -0.7986800074577332,
+      "reflectance_max": 36.625118255615234,
+      "all_reflectance_min": -0.7986800074577332,
+      "all_reflectance_max": 36.811981201171875
+    },
+    {
+      "class": "Anthracite coal grade 2",
+      "sha256": "22b161d485b9967a1b4de2aa008e7400f85ca53e10397f952a3f0dd74371cb3b",
+      "scans": 418,
+      "consumed_min": -0.9209799766540527,
+      "consumed_max": 80.0,
+      "reflectance_min": -0.9209799766540527,
+      "reflectance_max": 47.299598693847656,
+      "all_reflectance_min": -0.9209799766540527,
+      "all_reflectance_max": 47.299598693847656
+    },
+    {
+      "class": "Arenaceous shale 1",
+      "sha256": "a9abb67af79431c70c0b7efba96e792232092e80a1c87a2f9140889712c8e4b5",
+      "scans": 342,
+      "consumed_min": 0.0,
+      "consumed_max": 80.0,
+      "reflectance_min": 1.828410029411316,
+      "reflectance_max": 59.30934143066406,
+      "all_reflectance_min": 1.828410029411316,
+      "all_reflectance_max": 59.30934143066406
+    },
+    {
+      "class": "Arenaceous shale 2",
+      "sha256": "ba1fb181006746a61bde80652ef4a54b8bd20bfe315da92637b026697fb3b1f9",
+      "scans": 440,
+      "consumed_min": 0.0,
+      "consumed_max": 80.0,
+      "reflectance_min": 1.8714900016784668,
+      "reflectance_max": 76.34977722167969,
+      "all_reflectance_min": 1.80007004737854,
+      "all_reflectance_max": 76.34977722167969
+    },
+    {
+      "class": "Argillaceous limestone 1",
+      "sha256": "4d7eac65d12581dc0b19a6ee5020ac62734939f55acce931b10f050fe1ece8a7",
+      "scans": 418,
+      "consumed_min": 0.0,
+      "consumed_max": 80.0,
+      "reflectance_min": 7.853419780731201,
+      "reflectance_max": 76.46267700195312,
+      "all_reflectance_min": 7.853419780731201,
+      "all_reflectance_max": 76.46267700195312
+    },
+    {
+      "class": "Argillaceous limestone 2",
+      "sha256": "d132ae38703a1de08dfcccfba8e03db37cd2648e6047b19364e87ed6b303fe00",
+      "scans": 583,
+      "consumed_min": 0.0,
+      "consumed_max": 80.0,
+      "reflectance_min": 1.9828499555587769,
+      "reflectance_max": 67.48905181884766,
+      "all_reflectance_min": 1.9828499555587769,
+      "all_reflectance_max": 67.48905181884766
+    },
+    {
+      "class": "Black shale 1",
+      "sha256": "c6807888cdb84c3e1df9895d11cb50956a0882a486887f1302af2771a5beaec2",
+      "scans": 342,
+      "consumed_min": 0.0,
+      "consumed_max": 80.0,
+      "reflectance_min": 2.3351800441741943,
+      "reflectance_max": 55.946258544921875,
+      "all_reflectance_min": 2.3351800441741943,
+      "all_reflectance_max": 55.946258544921875
+    },
+    {
+      "class": "Black shale 2",
+      "sha256": "1fa366ca5fff078e9de61cf3f57bb001d3b61bb3d032226cd775b43f0f7f0d2c",
+      "scans": 418,
+      "consumed_min": 0.0,
+      "consumed_max": 80.0,
+      "reflectance_min": 4.306719779968262,
+      "reflectance_max": 57.405670166015625,
+      "all_reflectance_min": 4.306719779968262,
+      "all_reflectance_max": 57.405670166015625
+    },
+    {
+      "class": "Carbonaceous shale",
+      "sha256": "d05c1f266e51d1dd042cd954cf0d12da61fccd8ea54ef3233d586c3da3fd119e",
+      "scans": 418,
+      "consumed_min": 0.0,
+      "consumed_max": 80.0,
+      "reflectance_min": 1.0193699598312378,
+      "reflectance_max": 61.25033950805664,
+      "all_reflectance_min": 1.0193699598312378,
+      "all_reflectance_max": 61.25033950805664
+    },
+    {
+      "class": "Clay",
+      "sha256": "1ab33c48a4056a57a0f0170326490c239ed3bd4999aec93a12f7fe91596673ac",
+      "scans": 583,
+      "consumed_min": 0.0,
+      "consumed_max": 80.0,
+      "reflectance_min": 2.979749917984009,
+      "reflectance_max": 65.0563735961914,
+      "all_reflectance_min": 2.979749917984009,
+      "all_reflectance_max": 65.0563735961914
+    },
+    {
+      "class": "Coking coal",
+      "sha256": "3beac0da0628c78e91465f392b2688fc29d2ff397f203d0abe2c3fdda3b8e605",
+      "scans": 418,
+      "consumed_min": -1.9958699941635132,
+      "consumed_max": 80.0,
+      "reflectance_min": -1.9958699941635132,
+      "reflectance_max": 16.382080078125,
+      "all_reflectance_min": -1.9958699941635132,
+      "all_reflectance_max": 16.657400131225586
+    },
+    {
+      "class": "Fat coal",
+      "sha256": "b36ce4ffc90c5d3775660d0ac930176c01486df4e1b3d57ce912dc824f64ebb7",
+      "scans": 418,
+      "consumed_min": 0.0,
+      "consumed_max": 80.0,
+      "reflectance_min": 1.6193900108337402,
+      "reflectance_max": 33.84318161010742,
+      "all_reflectance_min": 1.6193900108337402,
+      "all_reflectance_max": 33.8880500793457
+    },
+    {
+      "class": "Fine-grained sandstone",
+      "sha256": "0f99342f90c4b56a65f634b9a37d3679bb32dbe11219dee8ab7db96ff23888ad",
+      "scans": 418,
+      "consumed_min": 0.0,
+      "consumed_max": 83.55876159667969,
+      "reflectance_min": 7.8294501304626465,
+      "reflectance_max": 83.55876159667969,
+      "all_reflectance_min": 7.8294501304626465,
+      "all_reflectance_max": 83.55876159667969
+    },
+    {
+      "class": "Gas coal",
+      "sha256": "e53958d4545c977cf328522e12d504e75dfd072889fdfedd4ba5b93821f33921",
+      "scans": 418,
+      "consumed_min": -0.6019300222396851,
+      "consumed_max": 80.0,
+      "reflectance_min": -0.6019300222396851,
+      "reflectance_max": 38.173091888427734,
+      "all_reflectance_min": -0.6019300222396851,
+      "all_reflectance_max": 38.173091888427734
+    },
+    {
+      "class": "Gas-fat coal",
+      "sha256": "5134a93ecbe50c99f5693cb1dfbf86a7bf4e369ad8d84383e559596614a7ad90",
+      "scans": 418,
+      "consumed_min": -5.325009822845459,
+      "consumed_max": 80.0,
+      "reflectance_min": -5.325009822845459,
+      "reflectance_max": 26.316509246826172,
+      "all_reflectance_min": -5.325009822845459,
+      "all_reflectance_max": 26.316509246826172
+    },
+    {
+      "class": "Lean coal",
+      "sha256": "92a8a3a8c04c810a4bb3be1be8b0a20796a212366d3ac3e893fe1bee6ef696ea",
+      "scans": 418,
+      "consumed_min": 0.0,
+      "consumed_max": 82.3797836303711,
+      "reflectance_min": 1.887369990348816,
+      "reflectance_max": 82.3797836303711,
+      "all_reflectance_min": 1.887369990348816,
+      "all_reflectance_max": 82.3797836303711
+    },
+    {
+      "class": "Lean-thin coal",
+      "sha256": "dd21493502e806c55796f883c9b4f85d0fc019fd71275f5010e11041e495417a",
+      "scans": 418,
+      "consumed_min": 0.0,
+      "consumed_max": 102.8558120727539,
+      "reflectance_min": 1.0683399438858032,
+      "reflectance_max": 102.8558120727539,
+      "all_reflectance_min": 1.0683399438858032,
+      "all_reflectance_max": 102.8558120727539
+    },
+    {
+      "class": "Lignite coal grade 1",
+      "sha256": "b56db4864827906c5c57354c886fb34ae6331bc70abda7f9d5942042e517becd",
+      "scans": 418,
+      "consumed_min": 0.0,
+      "consumed_max": 80.0,
+      "reflectance_min": 1.831760048866272,
+      "reflectance_max": 47.10728073120117,
+      "all_reflectance_min": 1.831760048866272,
+      "all_reflectance_max": 47.10728073120117
+    },
+    {
+      "class": "Lignite coal grade 2",
+      "sha256": "ca1b58e4310d0774cf02693727c436529d95c16c849ed1e43e0359b09c8a28ea",
+      "scans": 418,
+      "consumed_min": 0.0,
+      "consumed_max": 80.0,
+      "reflectance_min": 1.934249997138977,
+      "reflectance_max": 54.82453155517578,
+      "all_reflectance_min": 1.785390019416809,
+      "all_reflectance_max": 54.82453155517578
+    },
+    {
+      "class": "Medium-grained sandstone",
+      "sha256": "4dbe3858b8cfe6cb4dcdf461194bf6078e56456934e3b0c6f53fe6aee182a2c6",
+      "scans": 418,
+      "consumed_min": 0.0,
+      "consumed_max": 80.0,
+      "reflectance_min": 4.093019962310791,
+      "reflectance_max": 74.09201049804688,
+      "all_reflectance_min": 4.093019962310791,
+      "all_reflectance_max": 74.09201049804688
+    },
+    {
+      "class": "Siltstone 1",
+      "sha256": "f1f6f9a0d4668f0c90ba921337d67920464df6993e87b6a78114ed6d84bfe831",
+      "scans": 682,
+      "consumed_min": 0.0,
+      "consumed_max": 85.0,
+      "reflectance_min": 5.327559947967529,
+      "reflectance_max": 67.18855285644531,
+      "all_reflectance_min": 5.327559947967529,
+      "all_reflectance_max": 67.18855285644531
+    },
+    {
+      "class": "Siltstone 2",
+      "sha256": "81d1fed62d4b30d54954d4b298010b1fdb6bbb4fa3236dc0cc9c5f182ef58d3a",
+      "scans": 418,
+      "consumed_min": 0.0,
+      "consumed_max": 80.0,
+      "reflectance_min": 0.969539999961853,
+      "reflectance_max": 31.240989685058594,
+      "all_reflectance_min": 0.6471700072288513,
+      "all_reflectance_max": 31.240989685058594
+    },
+    {
+      "class": "Thin coal",
+      "sha256": "18fbdd7bb69ebbd3e39749529c297cee4fab792eafe039d20a97e1981923efa7",
+      "scans": 418,
+      "consumed_min": 0.0,
+      "consumed_max": 80.0,
+      "reflectance_min": 1.7896699905395508,
+      "reflectance_max": 55.15629959106445,
+      "all_reflectance_min": 1.7896699905395508,
+      "all_reflectance_max": 55.15629959106445
+    }
+  ]
+}

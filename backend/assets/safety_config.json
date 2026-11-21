@@ -1,0 +1,10 @@
+{
+  "version": "v3",
+  "gangue_mass_threshold": 0.95,
+  "min_flagged_scans": 4,
+  "chunk_size": 8,
+  "review_confidence": 0.6,
+  "review_unvalidated_input": true,
+  "review_any_flagged_up_to_scans": 20,
+  "source": "artifacts/batch_metrics.json (optimal_threshold, optimal_k) chosen on validation data. chunk_size=8 measured 2026-11-11: peak RSS 427 MB vs 643 MB at 64 on the 5.4 MB demo file, and ~35% faster. See docs/LIMITATIONS.md for the k>=4 consequence."
+}

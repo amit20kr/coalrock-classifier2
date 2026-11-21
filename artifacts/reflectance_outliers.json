@@ -1,0 +1,3164 @@
+[
+  {
+    "class": "0.3 coking coal",
+    "scans": 418,
+    "scans_outside_0_100": 0,
+    "values_outside_0_100": 0,
+    "scans_outside_minus20_120": 0,
+    "minimum": 2.448729991912842,
+    "maximum": 46.14651870727539,
+    "band_positions": []
+  },
+  {
+    "class": "Anthracite coal grade 1",
+    "scans": 418,
+    "scans_outside_0_100": 5,
+    "values_outside_0_100": 14,
+    "scans_outside_minus20_120": 0,
+    "minimum": -0.7986800074577332,
+    "maximum": 36.811981201171875,
+    "band_positions": [
+      {
+        "reflectance_index_0_based": 0,
+        "wavelength_nm": 1000,
+        "scan_count": 5,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1,
+        "wavelength_nm": 1001,
+        "scan_count": 4,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 2,
+        "wavelength_nm": 1002,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 3,
+        "wavelength_nm": 1003,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 4,
+        "wavelength_nm": 1004,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 5,
+        "wavelength_nm": 1005,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 6,
+        "wavelength_nm": 1006,
+        "scan_count": 1,
+        "retained": true
+      }
+    ]
+  },
+  {
+    "class": "Anthracite coal grade 2",
+    "scans": 418,
+    "scans_outside_0_100": 1,
+    "values_outside_0_100": 14,
+    "scans_outside_minus20_120": 0,
+    "minimum": -0.9209799766540527,
+    "maximum": 47.299598693847656,
+    "band_positions": [
+      {
+        "reflectance_index_0_based": 0,
+        "wavelength_nm": 1000,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1,
+        "wavelength_nm": 1001,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 2,
+        "wavelength_nm": 1002,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 3,
+        "wavelength_nm": 1003,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 4,
+        "wavelength_nm": 1004,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 5,
+        "wavelength_nm": 1005,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 6,
+        "wavelength_nm": 1006,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 7,
+        "wavelength_nm": 1007,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 8,
+        "wavelength_nm": 1008,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 9,
+        "wavelength_nm": 1009,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 10,
+        "wavelength_nm": 1010,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 11,
+        "wavelength_nm": 1011,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 12,
+        "wavelength_nm": 1012,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 13,
+        "wavelength_nm": 1013,
+        "scan_count": 1,
+        "retained": true
+      }
+    ]
+  },
+  {
+    "class": "Arenaceous shale 1",
+    "scans": 342,
+    "scans_outside_0_100": 0,
+    "values_outside_0_100": 0,
+    "scans_outside_minus20_120": 0,
+    "minimum": 1.828410029411316,
+    "maximum": 59.30934143066406,
+    "band_positions": []
+  },
+  {
+    "class": "Arenaceous shale 2",
+    "scans": 440,
+    "scans_outside_0_100": 0,
+    "values_outside_0_100": 0,
+    "scans_outside_minus20_120": 0,
+    "minimum": 1.80007004737854,
+    "maximum": 76.34977722167969,
+    "band_positions": []
+  },
+  {
+    "class": "Argillaceous limestone 1",
+    "scans": 418,
+    "scans_outside_0_100": 0,
+    "values_outside_0_100": 0,
+    "scans_outside_minus20_120": 0,
+    "minimum": 7.853419780731201,
+    "maximum": 76.46267700195312,
+    "band_positions": []
+  },
+  {
+    "class": "Argillaceous limestone 2",
+    "scans": 583,
+    "scans_outside_0_100": 0,
+    "values_outside_0_100": 0,
+    "scans_outside_minus20_120": 0,
+    "minimum": 1.9828499555587769,
+    "maximum": 67.48905181884766,
+    "band_positions": []
+  },
+  {
+    "class": "Black shale 1",
+    "scans": 342,
+    "scans_outside_0_100": 0,
+    "values_outside_0_100": 0,
+    "scans_outside_minus20_120": 0,
+    "minimum": 2.3351800441741943,
+    "maximum": 55.946258544921875,
+    "band_positions": []
+  },
+  {
+    "class": "Black shale 2",
+    "scans": 418,
+    "scans_outside_0_100": 0,
+    "values_outside_0_100": 0,
+    "scans_outside_minus20_120": 0,
+    "minimum": 4.306719779968262,
+    "maximum": 57.405670166015625,
+    "band_positions": []
+  },
+  {
+    "class": "Carbonaceous shale",
+    "scans": 418,
+    "scans_outside_0_100": 0,
+    "values_outside_0_100": 0,
+    "scans_outside_minus20_120": 0,
+    "minimum": 1.0193699598312378,
+    "maximum": 61.25033950805664,
+    "band_positions": []
+  },
+  {
+    "class": "Clay",
+    "scans": 583,
+    "scans_outside_0_100": 0,
+    "values_outside_0_100": 0,
+    "scans_outside_minus20_120": 0,
+    "minimum": 2.979749917984009,
+    "maximum": 65.0563735961914,
+    "band_positions": []
+  },
+  {
+    "class": "Coking coal",
+    "scans": 418,
+    "scans_outside_0_100": 36,
+    "values_outside_0_100": 225,
+    "scans_outside_minus20_120": 0,
+    "minimum": -1.9958699941635132,
+    "maximum": 16.657400131225586,
+    "band_positions": [
+      {
+        "reflectance_index_0_based": 0,
+        "wavelength_nm": 1000,
+        "scan_count": 35,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1,
+        "wavelength_nm": 1001,
+        "scan_count": 35,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 2,
+        "wavelength_nm": 1002,
+        "scan_count": 26,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 3,
+        "wavelength_nm": 1003,
+        "scan_count": 23,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 4,
+        "wavelength_nm": 1004,
+        "scan_count": 19,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 5,
+        "wavelength_nm": 1005,
+        "scan_count": 12,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 6,
+        "wavelength_nm": 1006,
+        "scan_count": 11,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 7,
+        "wavelength_nm": 1007,
+        "scan_count": 8,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 8,
+        "wavelength_nm": 1008,
+        "scan_count": 6,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 9,
+        "wavelength_nm": 1009,
+        "scan_count": 6,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 10,
+        "wavelength_nm": 1010,
+        "scan_count": 6,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 11,
+        "wavelength_nm": 1011,
+        "scan_count": 6,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 12,
+        "wavelength_nm": 1012,
+        "scan_count": 4,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 13,
+        "wavelength_nm": 1013,
+        "scan_count": 4,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 14,
+        "wavelength_nm": 1014,
+        "scan_count": 3,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 15,
+        "wavelength_nm": 1015,
+        "scan_count": 3,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 16,
+        "wavelength_nm": 1016,
+        "scan_count": 3,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 17,
+        "wavelength_nm": 1017,
+        "scan_count": 2,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 18,
+        "wavelength_nm": 1018,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 19,
+        "wavelength_nm": 1019,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 20,
+        "wavelength_nm": 1020,
+        "scan_count": 2,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 21,
+        "wavelength_nm": 1021,
+        "scan_count": 2,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 22,
+        "wavelength_nm": 1022,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 23,
+        "wavelength_nm": 1023,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 24,
+        "wavelength_nm": 1024,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 25,
+        "wavelength_nm": 1025,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 26,
+        "wavelength_nm": 1026,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 27,
+        "wavelength_nm": 1027,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 28,
+        "wavelength_nm": 1028,
+        "scan_count": 1,
+        "retained": true
+      }
+    ]
+  },
+  {
+    "class": "Fat coal",
+    "scans": 418,
+    "scans_outside_0_100": 0,
+    "values_outside_0_100": 0,
+    "scans_outside_minus20_120": 0,
+    "minimum": 1.6193900108337402,
+    "maximum": 33.8880500793457,
+    "band_positions": []
+  },
+  {
+    "class": "Fine-grained sandstone",
+    "scans": 418,
+    "scans_outside_0_100": 0,
+    "values_outside_0_100": 0,
+    "scans_outside_minus20_120": 0,
+    "minimum": 7.8294501304626465,
+    "maximum": 83.55876159667969,
+    "band_positions": []
+  },
+  {
+    "class": "Gas coal",
+    "scans": 418,
+    "scans_outside_0_100": 1,
+    "values_outside_0_100": 8,
+    "scans_outside_minus20_120": 0,
+    "minimum": -0.6019300222396851,
+    "maximum": 38.173091888427734,
+    "band_positions": [
+      {
+        "reflectance_index_0_based": 0,
+        "wavelength_nm": 1000,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1,
+        "wavelength_nm": 1001,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 2,
+        "wavelength_nm": 1002,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 3,
+        "wavelength_nm": 1003,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 4,
+        "wavelength_nm": 1004,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 5,
+        "wavelength_nm": 1005,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 6,
+        "wavelength_nm": 1006,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 7,
+        "wavelength_nm": 1007,
+        "scan_count": 1,
+        "retained": true
+      }
+    ]
+  },
+  {
+    "class": "Gas-fat coal",
+    "scans": 418,
+    "scans_outside_0_100": 158,
+    "values_outside_0_100": 2151,
+    "scans_outside_minus20_120": 0,
+    "minimum": -5.325009822845459,
+    "maximum": 26.316509246826172,
+    "band_positions": [
+      {
+        "reflectance_index_0_based": 0,
+        "wavelength_nm": 1000,
+        "scan_count": 158,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1,
+        "wavelength_nm": 1001,
+        "scan_count": 152,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 2,
+        "wavelength_nm": 1002,
+        "scan_count": 146,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 3,
+        "wavelength_nm": 1003,
+        "scan_count": 140,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 4,
+        "wavelength_nm": 1004,
+        "scan_count": 137,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 5,
+        "wavelength_nm": 1005,
+        "scan_count": 129,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 6,
+        "wavelength_nm": 1006,
+        "scan_count": 121,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 7,
+        "wavelength_nm": 1007,
+        "scan_count": 111,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 8,
+        "wavelength_nm": 1008,
+        "scan_count": 105,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 9,
+        "wavelength_nm": 1009,
+        "scan_count": 101,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 10,
+        "wavelength_nm": 1010,
+        "scan_count": 95,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 11,
+        "wavelength_nm": 1011,
+        "scan_count": 87,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 12,
+        "wavelength_nm": 1012,
+        "scan_count": 81,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 13,
+        "wavelength_nm": 1013,
+        "scan_count": 75,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 14,
+        "wavelength_nm": 1014,
+        "scan_count": 72,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 15,
+        "wavelength_nm": 1015,
+        "scan_count": 66,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 16,
+        "wavelength_nm": 1016,
+        "scan_count": 59,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 17,
+        "wavelength_nm": 1017,
+        "scan_count": 50,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 18,
+        "wavelength_nm": 1018,
+        "scan_count": 35,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 19,
+        "wavelength_nm": 1019,
+        "scan_count": 33,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 20,
+        "wavelength_nm": 1020,
+        "scan_count": 32,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 21,
+        "wavelength_nm": 1021,
+        "scan_count": 30,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 22,
+        "wavelength_nm": 1022,
+        "scan_count": 27,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 23,
+        "wavelength_nm": 1023,
+        "scan_count": 22,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 24,
+        "wavelength_nm": 1024,
+        "scan_count": 20,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 25,
+        "wavelength_nm": 1025,
+        "scan_count": 17,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 26,
+        "wavelength_nm": 1026,
+        "scan_count": 16,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 27,
+        "wavelength_nm": 1027,
+        "scan_count": 10,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 28,
+        "wavelength_nm": 1028,
+        "scan_count": 7,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 29,
+        "wavelength_nm": 1029,
+        "scan_count": 4,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 30,
+        "wavelength_nm": 1030,
+        "scan_count": 3,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 31,
+        "wavelength_nm": 1031,
+        "scan_count": 2,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 32,
+        "wavelength_nm": 1032,
+        "scan_count": 2,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 33,
+        "wavelength_nm": 1033,
+        "scan_count": 2,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 34,
+        "wavelength_nm": 1034,
+        "scan_count": 2,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 35,
+        "wavelength_nm": 1035,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 36,
+        "wavelength_nm": 1036,
+        "scan_count": 1,
+        "retained": true
+      }
+    ]
+  },
+  {
+    "class": "Lean coal",
+    "scans": 418,
+    "scans_outside_0_100": 0,
+    "values_outside_0_100": 0,
+    "scans_outside_minus20_120": 0,
+    "minimum": 1.887369990348816,
+    "maximum": 82.3797836303711,
+    "band_positions": []
+  },
+  {
+    "class": "Lean-thin coal",
+    "scans": 418,
+    "scans_outside_0_100": 1,
+    "values_outside_0_100": 391,
+    "scans_outside_minus20_120": 0,
+    "minimum": 1.0683399438858032,
+    "maximum": 102.8558120727539,
+    "band_positions": [
+      {
+        "reflectance_index_0_based": 1061,
+        "wavelength_nm": 2061,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1062,
+        "wavelength_nm": 2062,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1064,
+        "wavelength_nm": 2064,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1065,
+        "wavelength_nm": 2065,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1066,
+        "wavelength_nm": 2066,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1067,
+        "wavelength_nm": 2067,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1068,
+        "wavelength_nm": 2068,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1069,
+        "wavelength_nm": 2069,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1070,
+        "wavelength_nm": 2070,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1071,
+        "wavelength_nm": 2071,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1072,
+        "wavelength_nm": 2072,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1073,
+        "wavelength_nm": 2073,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1074,
+        "wavelength_nm": 2074,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1075,
+        "wavelength_nm": 2075,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1076,
+        "wavelength_nm": 2076,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1077,
+        "wavelength_nm": 2077,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1078,
+        "wavelength_nm": 2078,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1079,
+        "wavelength_nm": 2079,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1080,
+        "wavelength_nm": 2080,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1081,
+        "wavelength_nm": 2081,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1082,
+        "wavelength_nm": 2082,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1083,
+        "wavelength_nm": 2083,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1084,
+        "wavelength_nm": 2084,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1085,
+        "wavelength_nm": 2085,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1086,
+        "wavelength_nm": 2086,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1087,
+        "wavelength_nm": 2087,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1088,
+        "wavelength_nm": 2088,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1089,
+        "wavelength_nm": 2089,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1090,
+        "wavelength_nm": 2090,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1091,
+        "wavelength_nm": 2091,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1092,
+        "wavelength_nm": 2092,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1093,
+        "wavelength_nm": 2093,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1094,
+        "wavelength_nm": 2094,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1095,
+        "wavelength_nm": 2095,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1096,
+        "wavelength_nm": 2096,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1097,
+        "wavelength_nm": 2097,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1098,
+        "wavelength_nm": 2098,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1099,
+        "wavelength_nm": 2099,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1100,
+        "wavelength_nm": 2100,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1101,
+        "wavelength_nm": 2101,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1102,
+        "wavelength_nm": 2102,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1103,
+        "wavelength_nm": 2103,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1104,
+        "wavelength_nm": 2104,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1105,
+        "wavelength_nm": 2105,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1106,
+        "wavelength_nm": 2106,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1107,
+        "wavelength_nm": 2107,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1108,
+        "wavelength_nm": 2108,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1109,
+        "wavelength_nm": 2109,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1110,
+        "wavelength_nm": 2110,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1111,
+        "wavelength_nm": 2111,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1112,
+        "wavelength_nm": 2112,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1113,
+        "wavelength_nm": 2113,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1114,
+        "wavelength_nm": 2114,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1115,
+        "wavelength_nm": 2115,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1116,
+        "wavelength_nm": 2116,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1117,
+        "wavelength_nm": 2117,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1118,
+        "wavelength_nm": 2118,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1119,
+        "wavelength_nm": 2119,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1120,
+        "wavelength_nm": 2120,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1121,
+        "wavelength_nm": 2121,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1122,
+        "wavelength_nm": 2122,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1123,
+        "wavelength_nm": 2123,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1124,
+        "wavelength_nm": 2124,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1125,
+        "wavelength_nm": 2125,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1126,
+        "wavelength_nm": 2126,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1127,
+        "wavelength_nm": 2127,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1128,
+        "wavelength_nm": 2128,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1129,
+        "wavelength_nm": 2129,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1130,
+        "wavelength_nm": 2130,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1131,
+        "wavelength_nm": 2131,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1132,
+        "wavelength_nm": 2132,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1133,
+        "wavelength_nm": 2133,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1134,
+        "wavelength_nm": 2134,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1135,
+        "wavelength_nm": 2135,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1136,
+        "wavelength_nm": 2136,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1137,
+        "wavelength_nm": 2137,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1138,
+        "wavelength_nm": 2138,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1139,
+        "wavelength_nm": 2139,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1140,
+        "wavelength_nm": 2140,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1141,
+        "wavelength_nm": 2141,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1142,
+        "wavelength_nm": 2142,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1143,
+        "wavelength_nm": 2143,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1144,
+        "wavelength_nm": 2144,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1145,
+        "wavelength_nm": 2145,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1146,
+        "wavelength_nm": 2146,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1147,
+        "wavelength_nm": 2147,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1148,
+        "wavelength_nm": 2148,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1149,
+        "wavelength_nm": 2149,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1150,
+        "wavelength_nm": 2150,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1151,
+        "wavelength_nm": 2151,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1152,
+        "wavelength_nm": 2152,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1153,
+        "wavelength_nm": 2153,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1154,
+        "wavelength_nm": 2154,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1155,
+        "wavelength_nm": 2155,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1156,
+        "wavelength_nm": 2156,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1157,
+        "wavelength_nm": 2157,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1158,
+        "wavelength_nm": 2158,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1159,
+        "wavelength_nm": 2159,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1160,
+        "wavelength_nm": 2160,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1161,
+        "wavelength_nm": 2161,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1162,
+        "wavelength_nm": 2162,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1163,
+        "wavelength_nm": 2163,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1164,
+        "wavelength_nm": 2164,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1165,
+        "wavelength_nm": 2165,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1166,
+        "wavelength_nm": 2166,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1167,
+        "wavelength_nm": 2167,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1168,
+        "wavelength_nm": 2168,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1169,
+        "wavelength_nm": 2169,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1170,
+        "wavelength_nm": 2170,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1171,
+        "wavelength_nm": 2171,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1172,
+        "wavelength_nm": 2172,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1173,
+        "wavelength_nm": 2173,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1174,
+        "wavelength_nm": 2174,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1175,
+        "wavelength_nm": 2175,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1176,
+        "wavelength_nm": 2176,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1177,
+        "wavelength_nm": 2177,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1178,
+        "wavelength_nm": 2178,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1179,
+        "wavelength_nm": 2179,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1180,
+        "wavelength_nm": 2180,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1181,
+        "wavelength_nm": 2181,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1182,
+        "wavelength_nm": 2182,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1183,
+        "wavelength_nm": 2183,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1184,
+        "wavelength_nm": 2184,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1185,
+        "wavelength_nm": 2185,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1186,
+        "wavelength_nm": 2186,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1187,
+        "wavelength_nm": 2187,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1188,
+        "wavelength_nm": 2188,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1189,
+        "wavelength_nm": 2189,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1190,
+        "wavelength_nm": 2190,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1191,
+        "wavelength_nm": 2191,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1192,
+        "wavelength_nm": 2192,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1193,
+        "wavelength_nm": 2193,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1194,
+        "wavelength_nm": 2194,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1195,
+        "wavelength_nm": 2195,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1196,
+        "wavelength_nm": 2196,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1197,
+        "wavelength_nm": 2197,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1198,
+        "wavelength_nm": 2198,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1199,
+        "wavelength_nm": 2199,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1200,
+        "wavelength_nm": 2200,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1201,
+        "wavelength_nm": 2201,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1202,
+        "wavelength_nm": 2202,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1203,
+        "wavelength_nm": 2203,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1204,
+        "wavelength_nm": 2204,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1205,
+        "wavelength_nm": 2205,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1206,
+        "wavelength_nm": 2206,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1207,
+        "wavelength_nm": 2207,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1208,
+        "wavelength_nm": 2208,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1209,
+        "wavelength_nm": 2209,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1210,
+        "wavelength_nm": 2210,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1211,
+        "wavelength_nm": 2211,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1212,
+        "wavelength_nm": 2212,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1213,
+        "wavelength_nm": 2213,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1214,
+        "wavelength_nm": 2214,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1215,
+        "wavelength_nm": 2215,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1218,
+        "wavelength_nm": 2218,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1219,
+        "wavelength_nm": 2219,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1220,
+        "wavelength_nm": 2220,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1221,
+        "wavelength_nm": 2221,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1225,
+        "wavelength_nm": 2225,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1226,
+        "wavelength_nm": 2226,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1264,
+        "wavelength_nm": 2264,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1265,
+        "wavelength_nm": 2265,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1266,
+        "wavelength_nm": 2266,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1268,
+        "wavelength_nm": 2268,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1269,
+        "wavelength_nm": 2269,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1270,
+        "wavelength_nm": 2270,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1271,
+        "wavelength_nm": 2271,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1272,
+        "wavelength_nm": 2272,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1276,
+        "wavelength_nm": 2276,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1277,
+        "wavelength_nm": 2277,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1278,
+        "wavelength_nm": 2278,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1279,
+        "wavelength_nm": 2279,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1281,
+        "wavelength_nm": 2281,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1282,
+        "wavelength_nm": 2282,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1283,
+        "wavelength_nm": 2283,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1284,
+        "wavelength_nm": 2284,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1285,
+        "wavelength_nm": 2285,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1286,
+        "wavelength_nm": 2286,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1287,
+        "wavelength_nm": 2287,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1288,
+        "wavelength_nm": 2288,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1289,
+        "wavelength_nm": 2289,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1290,
+        "wavelength_nm": 2290,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1291,
+        "wavelength_nm": 2291,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1292,
+        "wavelength_nm": 2292,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1293,
+        "wavelength_nm": 2293,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1294,
+        "wavelength_nm": 2294,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1295,
+        "wavelength_nm": 2295,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1296,
+        "wavelength_nm": 2296,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1297,
+        "wavelength_nm": 2297,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1298,
+        "wavelength_nm": 2298,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1299,
+        "wavelength_nm": 2299,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1300,
+        "wavelength_nm": 2300,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1301,
+        "wavelength_nm": 2301,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1302,
+        "wavelength_nm": 2302,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1303,
+        "wavelength_nm": 2303,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1304,
+        "wavelength_nm": 2304,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1305,
+        "wavelength_nm": 2305,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1306,
+        "wavelength_nm": 2306,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1307,
+        "wavelength_nm": 2307,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1308,
+        "wavelength_nm": 2308,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1309,
+        "wavelength_nm": 2309,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1310,
+        "wavelength_nm": 2310,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1311,
+        "wavelength_nm": 2311,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1312,
+        "wavelength_nm": 2312,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1313,
+        "wavelength_nm": 2313,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1314,
+        "wavelength_nm": 2314,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1315,
+        "wavelength_nm": 2315,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1316,
+        "wavelength_nm": 2316,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1317,
+        "wavelength_nm": 2317,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1318,
+        "wavelength_nm": 2318,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1319,
+        "wavelength_nm": 2319,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1320,
+        "wavelength_nm": 2320,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1321,
+        "wavelength_nm": 2321,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1322,
+        "wavelength_nm": 2322,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1323,
+        "wavelength_nm": 2323,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1324,
+        "wavelength_nm": 2324,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1325,
+        "wavelength_nm": 2325,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1326,
+        "wavelength_nm": 2326,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1327,
+        "wavelength_nm": 2327,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1328,
+        "wavelength_nm": 2328,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1329,
+        "wavelength_nm": 2329,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1330,
+        "wavelength_nm": 2330,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1331,
+        "wavelength_nm": 2331,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1332,
+        "wavelength_nm": 2332,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1333,
+        "wavelength_nm": 2333,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1334,
+        "wavelength_nm": 2334,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1335,
+        "wavelength_nm": 2335,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1336,
+        "wavelength_nm": 2336,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1337,
+        "wavelength_nm": 2337,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1338,
+        "wavelength_nm": 2338,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1339,
+        "wavelength_nm": 2339,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1340,
+        "wavelength_nm": 2340,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1341,
+        "wavelength_nm": 2341,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1342,
+        "wavelength_nm": 2342,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1343,
+        "wavelength_nm": 2343,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1344,
+        "wavelength_nm": 2344,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1345,
+        "wavelength_nm": 2345,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1346,
+        "wavelength_nm": 2346,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1347,
+        "wavelength_nm": 2347,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1348,
+        "wavelength_nm": 2348,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1349,
+        "wavelength_nm": 2349,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1350,
+        "wavelength_nm": 2350,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1351,
+        "wavelength_nm": 2351,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1352,
+        "wavelength_nm": 2352,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1353,
+        "wavelength_nm": 2353,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1354,
+        "wavelength_nm": 2354,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1355,
+        "wavelength_nm": 2355,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1356,
+        "wavelength_nm": 2356,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1357,
+        "wavelength_nm": 2357,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1358,
+        "wavelength_nm": 2358,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1359,
+        "wavelength_nm": 2359,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1360,
+        "wavelength_nm": 2360,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1361,
+        "wavelength_nm": 2361,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1362,
+        "wavelength_nm": 2362,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1363,
+        "wavelength_nm": 2363,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1364,
+        "wavelength_nm": 2364,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1365,
+        "wavelength_nm": 2365,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1366,
+        "wavelength_nm": 2366,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1367,
+        "wavelength_nm": 2367,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1368,
+        "wavelength_nm": 2368,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1369,
+        "wavelength_nm": 2369,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1370,
+        "wavelength_nm": 2370,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1371,
+        "wavelength_nm": 2371,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1372,
+        "wavelength_nm": 2372,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1373,
+        "wavelength_nm": 2373,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1374,
+        "wavelength_nm": 2374,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1375,
+        "wavelength_nm": 2375,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1376,
+        "wavelength_nm": 2376,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1377,
+        "wavelength_nm": 2377,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1378,
+        "wavelength_nm": 2378,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1379,
+        "wavelength_nm": 2379,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1380,
+        "wavelength_nm": 2380,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1381,
+        "wavelength_nm": 2381,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1382,
+        "wavelength_nm": 2382,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1383,
+        "wavelength_nm": 2383,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1384,
+        "wavelength_nm": 2384,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1385,
+        "wavelength_nm": 2385,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1386,
+        "wavelength_nm": 2386,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1387,
+        "wavelength_nm": 2387,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1388,
+        "wavelength_nm": 2388,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1389,
+        "wavelength_nm": 2389,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1390,
+        "wavelength_nm": 2390,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1391,
+        "wavelength_nm": 2391,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1392,
+        "wavelength_nm": 2392,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1393,
+        "wavelength_nm": 2393,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1394,
+        "wavelength_nm": 2394,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1395,
+        "wavelength_nm": 2395,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1396,
+        "wavelength_nm": 2396,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1397,
+        "wavelength_nm": 2397,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1398,
+        "wavelength_nm": 2398,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1399,
+        "wavelength_nm": 2399,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1400,
+        "wavelength_nm": 2400,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1401,
+        "wavelength_nm": 2401,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1402,
+        "wavelength_nm": 2402,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1403,
+        "wavelength_nm": 2403,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1404,
+        "wavelength_nm": 2404,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1405,
+        "wavelength_nm": 2405,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1406,
+        "wavelength_nm": 2406,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1407,
+        "wavelength_nm": 2407,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1408,
+        "wavelength_nm": 2408,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1409,
+        "wavelength_nm": 2409,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1410,
+        "wavelength_nm": 2410,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1411,
+        "wavelength_nm": 2411,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1412,
+        "wavelength_nm": 2412,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1413,
+        "wavelength_nm": 2413,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1414,
+        "wavelength_nm": 2414,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1415,
+        "wavelength_nm": 2415,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1416,
+        "wavelength_nm": 2416,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1417,
+        "wavelength_nm": 2417,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1418,
+        "wavelength_nm": 2418,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1419,
+        "wavelength_nm": 2419,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1420,
+        "wavelength_nm": 2420,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1421,
+        "wavelength_nm": 2421,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1422,
+        "wavelength_nm": 2422,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1423,
+        "wavelength_nm": 2423,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1424,
+        "wavelength_nm": 2424,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1425,
+        "wavelength_nm": 2425,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1426,
+        "wavelength_nm": 2426,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1427,
+        "wavelength_nm": 2427,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1428,
+        "wavelength_nm": 2428,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1429,
+        "wavelength_nm": 2429,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1430,
+        "wavelength_nm": 2430,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1431,
+        "wavelength_nm": 2431,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1432,
+        "wavelength_nm": 2432,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1433,
+        "wavelength_nm": 2433,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1434,
+        "wavelength_nm": 2434,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1435,
+        "wavelength_nm": 2435,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1436,
+        "wavelength_nm": 2436,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1437,
+        "wavelength_nm": 2437,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1438,
+        "wavelength_nm": 2438,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1439,
+        "wavelength_nm": 2439,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1440,
+        "wavelength_nm": 2440,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1441,
+        "wavelength_nm": 2441,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1442,
+        "wavelength_nm": 2442,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1443,
+        "wavelength_nm": 2443,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1444,
+        "wavelength_nm": 2444,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1445,
+        "wavelength_nm": 2445,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1446,
+        "wavelength_nm": 2446,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1447,
+        "wavelength_nm": 2447,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1448,
+        "wavelength_nm": 2448,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1449,
+        "wavelength_nm": 2449,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1450,
+        "wavelength_nm": 2450,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1451,
+        "wavelength_nm": 2451,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1452,
+        "wavelength_nm": 2452,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1453,
+        "wavelength_nm": 2453,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1454,
+        "wavelength_nm": 2454,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1455,
+        "wavelength_nm": 2455,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1456,
+        "wavelength_nm": 2456,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1457,
+        "wavelength_nm": 2457,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1458,
+        "wavelength_nm": 2458,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1459,
+        "wavelength_nm": 2459,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1460,
+        "wavelength_nm": 2460,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1461,
+        "wavelength_nm": 2461,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1462,
+        "wavelength_nm": 2462,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1463,
+        "wavelength_nm": 2463,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1464,
+        "wavelength_nm": 2464,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1465,
+        "wavelength_nm": 2465,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1466,
+        "wavelength_nm": 2466,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1467,
+        "wavelength_nm": 2467,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1468,
+        "wavelength_nm": 2468,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1469,
+        "wavelength_nm": 2469,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1470,
+        "wavelength_nm": 2470,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1471,
+        "wavelength_nm": 2471,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1472,
+        "wavelength_nm": 2472,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1473,
+        "wavelength_nm": 2473,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1474,
+        "wavelength_nm": 2474,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1475,
+        "wavelength_nm": 2475,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1476,
+        "wavelength_nm": 2476,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1477,
+        "wavelength_nm": 2477,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1478,
+        "wavelength_nm": 2478,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1479,
+        "wavelength_nm": 2479,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1480,
+        "wavelength_nm": 2480,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1481,
+        "wavelength_nm": 2481,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1482,
+        "wavelength_nm": 2482,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1483,
+        "wavelength_nm": 2483,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1484,
+        "wavelength_nm": 2484,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1485,
+        "wavelength_nm": 2485,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1486,
+        "wavelength_nm": 2486,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1487,
+        "wavelength_nm": 2487,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1488,
+        "wavelength_nm": 2488,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1489,
+        "wavelength_nm": 2489,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1490,
+        "wavelength_nm": 2490,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1491,
+        "wavelength_nm": 2491,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1492,
+        "wavelength_nm": 2492,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1493,
+        "wavelength_nm": 2493,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1494,
+        "wavelength_nm": 2494,
+        "scan_count": 1,
+        "retained": true
+      },
+      {
+        "reflectance_index_0_based": 1495,
+        "wavelength_nm": 2495,
+        "scan_count": 1,
+        "retained": false
+      },
+      {
+        "reflectance_index_0_based": 1496,
+        "wavelength_nm": 2496,
+        "scan_count": 1,
+        "retained": false
+      },
+      {
+        "reflectance_index_0_based": 1497,
+        "wavelength_nm": 2497,
+        "scan_count": 1,
+        "retained": false
+      },
+      {
+        "reflectance_index_0_based": 1498,
+        "wavelength_nm": 2498,
+        "scan_count": 1,
+        "retained": false
+      },
+      {
+        "reflectance_index_0_based": 1499,
+        "wavelength_nm": 2499,
+        "scan_count": 1,
+        "retained": false
+      }
+    ]
+  },
+  {
+    "class": "Lignite coal grade 1",
+    "scans": 418,
+    "scans_outside_0_100": 0,
+    "values_outside_0_100": 0,
+    "scans_outside_minus20_120": 0,
+    "minimum": 1.831760048866272,
+    "maximum": 47.10728073120117,
+    "band_positions": []
+  },
+  {
+    "class": "Lignite coal grade 2",
+    "scans": 418,
+    "scans_outside_0_100": 0,
+    "values_outside_0_100": 0,
+    "scans_outside_minus20_120": 0,
+    "minimum": 1.785390019416809,
+    "maximum": 54.82453155517578,
+    "band_positions": []
+  },
+  {
+    "class": "Medium-grained sandstone",
+    "scans": 418,
+    "scans_outside_0_100": 0,
+    "values_outside_0_100": 0,
+    "scans_outside_minus20_120": 0,
+    "minimum": 4.093019962310791,
+    "maximum": 74.09201049804688,
+    "band_positions": []
+  },
+  {
+    "class": "Siltstone 1",
+    "scans": 682,
+    "scans_outside_0_100": 0,
+    "values_outside_0_100": 0,
+    "scans_outside_minus20_120": 0,
+    "minimum": 5.327559947967529,
+    "maximum": 67.18855285644531,
+    "band_positions": []
+  },
+  {
+    "class": "Siltstone 2",
+    "scans": 418,
+    "scans_outside_0_100": 0,
+    "values_outside_0_100": 0,
+    "scans_outside_minus20_120": 0,
+    "minimum": 0.6471700072288513,
+    "maximum": 31.240989685058594,
+    "band_positions": []
+  },
+  {
+    "class": "Thin coal",
+    "scans": 418,
+    "scans_outside_0_100": 0,
+    "values_outside_0_100": 0,
+    "scans_outside_minus20_120": 0,
+    "minimum": 1.7896699905395508,
+    "maximum": 55.15629959106445,
+    "band_positions": []
+  }
+]

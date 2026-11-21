@@ -1,0 +1,22 @@
+# backend/requirements.txt
+# Render free tier = CPU only. Use --extra-index-url for the CPU torch wheel.
+#
+# PYTHON VERSION: the repo-root `.python-version` pins 3.12 (also set PYTHON_VERSION=3.12.x in the Render
+# dashboard). Render's default Python for services created in 2026 is >= 3.13, for which old torch
+# wheels do not exist, so the version must be pinned explicitly or the build fails.
+
+--extra-index-url https://download.pytorch.org/whl/cpu
+# Matches the training environment: coalrock_preprocess2.ipynb prints "PyTorch : 2.11.0+cpu" and
+# "Torch version for requirements.txt: 2.11.0+cpu". (A previous edit pinned 2.1.0+cpu and claimed it
+# matched training; it did not, and 2.1.0 has no wheel for Python >= 3.12.)
+torch==2.11.0+cpu
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+numpy==2.0.2
+pandas==2.2.2
+scipy==1.14.1
+# numpy/pandas match the training notebook and the previously deployed build; scipy 1.14.1 is the
+# matching release. Verified 2026-11-11: pipeline output is identical (max diff 2e-6) to numpy 2.5 / pandas 3.1.
+python-multipart>=0.0.6
+huggingface_hub>=0.20.0
+# scikit-learn removed: serving reads assets/class_list.json (identical order to label_encoder.pkl).
